@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "medwriter-mcp"
+version = "1.0.0"
+description = "The Medical Writer's AI Toolkit — 33 expert prompts as callable MCP tools"
+requires-python = ">=3.8"
+dependencies = [
+    "mcp>=1.0.0",
+]
+
+[tool.setuptools]
+py-modules = ["server"]
