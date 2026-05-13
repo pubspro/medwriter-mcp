@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "medwriter-mcp"
 version = "1.0.0"
 description = "The Medical Writer's AI Toolkit — 33 expert prompts as callable MCP tools"
-requires-python = ">=3.8"
+requires-python = ">=3.10"
 dependencies = [
     "mcp>=1.0.0",
 ]
