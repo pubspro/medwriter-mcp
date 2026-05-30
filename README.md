@@ -2,18 +2,18 @@
 
 [![MCPize](https://mcpize.com/badge/@pubspro/medwriter)](https://mcpize.com/mcp/medwriter)
 
-**The Medical Writer's AI Toolkit — 33 expert prompts as callable MCP tools.**
-
+**The Medical Writer's AI Toolkit — 34 expert prompts as callable MCP tools.**
 Built by a CMPP-certified medical writer with a PhD and 10+ years in pharma. Gives Claude and any MCP-compatible AI agent direct access to publication-ready prompt frameworks for every stage of the pharma medical writing workflow.
 
 ---
 
-## Free tier (5 tools) vs Pro tier (28 tools)
-
+## Plans & tiers
 | Tier | Tools | Access |
 |------|-------|--------|
-| Free | 5 core tools | Install and use immediately |
-| Pro | All 33 tools + ADAPT framework | See Pro tier below |
+| Free | 8 starter tools | $0/mo · 25 requests · install and use immediately |
+| Pro | All 34 tools + ADAPT framework | $39/mo ($374/yr) · 1,000 requests |
+| Business | All 34 tools + ADAPT framework | $89/mo ($854/yr) · 5,000 requests |
+| Ultra | All 34 tools + ADAPT framework | $129/mo ($1,238/yr) · 10,000 requests |
 
 ---
 
@@ -23,14 +23,16 @@ Built by a CMPP-certified medical writer with a PhD and 10+ years in pharma. Giv
 
 | Tool | Description |
 |------|-------------|
-| `get_structured_abstract_prompt` | Draft a CONSORT/STROBE-aligned structured journal abstract |
 | `get_manuscript_outline_prompt` | Create a detailed manuscript outline with section word counts |
-| `get_peer_review_response_prompt` | Draft a point-by-point reviewer response |
-| `get_author_invitation_email_prompt` | Write an ICMJE-aligned author invitation email |
-| `get_linkedin_publication_post_prompt` | Draft a LinkedIn post announcing a publication |
+| `get_structured_abstract_prompt` | Draft a CONSORT/STROBE-aligned structured journal abstract |
+| `get_unstructured_abstract_prompt` | Draft a narrative (unstructured) journal abstract |
+| `get_introduction_section_prompt` | Draft a manuscript Introduction section |
+| `get_methods_section_prompt` | Draft a manuscript Methods section |
+| `get_results_section_prompt` | Draft a manuscript Results section |
+| `get_discussion_section_prompt` | Draft a manuscript Discussion section |
+| `list_all_tools` | List every tool available in the toolkit |
 
-### 🔐 Pro tier — 28 additional tools across 9 chapters
-
+### 🔐 Paid tiers — 26 additional tools across 9 chapters (Pro, Business, Ultra)
 **Chapter 1 — Abstract writing**
 - Convert structured → unstructured abstract
 - Rewrite weak conclusions to be data-anchored
