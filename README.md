@@ -1,5 +1,7 @@
 # medwriter-mcp
 
+[![MCPize](https://mcpize.com/badge/@pubspro/medwriter)](https://mcpize.com/mcp/medwriter)
+
 **The Medical Writer's AI Toolkit — 33 expert prompts as callable MCP tools.**
 
 Built by a CMPP-certified medical writer with a PhD and 10+ years in pharma. Gives Claude and any MCP-compatible AI agent direct access to publication-ready prompt frameworks for every stage of the pharma medical writing workflow.
