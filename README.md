@@ -15,6 +15,8 @@ Built by a CMPP-certified medical writer with a PhD and 10+ years in pharma. Giv
 | Business | All 34 tools + ADAPT framework | $89/mo ($854/yr) · 5,000 requests |
 | Ultra | All 34 tools + ADAPT framework | $129/mo ($1,238/yr) · 10,000 requests |
 
+**Free tier** includes 8 starter tools (manuscript outline, abstracts, and core IMRaD section drafting). Paid tiers unlock the full **Manuscript Toolkit** — all 26 advanced tools plus the ADAPT framework.
+
 ---
 
 ## Tools
